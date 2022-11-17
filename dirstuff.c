@@ -1,4 +1,4 @@
-#include "main.h"
+#include "header.h"
 /**
  * dir_search - searches through the PATH for a matching command
  * @argv: array of strings containing our tokenized arguments
